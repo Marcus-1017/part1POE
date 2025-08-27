@@ -45,11 +45,11 @@ The primary goals of the Steepd website are:
 
 ## Wireframes
 
-![wireframe1](Proposal1Wireframe(preferred)\wireframe1.png)
-![wireframe2](Proposal1Wireframe(preferred)\wireframe2.png)
-![wireframe3](Proposal1Wireframe(preferred)\wireframe3.png)
-![wireframe4](Proposal1Wireframe(preferred)\wireframe4.png)
-![wireframe5](Proposal1Wireframe(preferred)\wireframe5.png)
+![wireframe1](Proposal1Wireframe(preferred)/wireframe1.png)
+![wireframe2](Proposal1Wireframe(preferred)/wireframe2.png)
+![wireframe3](Proposal1Wireframe(preferred)/wireframe3.png)
+![wireframe4](Proposal1Wireframe(preferred)/wireframe4.png)
+![wireframe5](Proposal1Wireframe(preferred)/wireframe5.png)
 (the above images were generated using Figma AI and modified by me)
 
 ## References
@@ -59,3 +59,4 @@ Klet, D. (2025) *Assortment of herbal tea ingredients including flowers and drie
 Osmachko (2025) *Overhead view of loose-leaf green tea in a bowl*. [Photograph] Pexels. Available at: https://www.pexels.com/photo/green-tea-in-clear-drinking-glass-230477/ (Accessed: 25 February 2025).
 
 Valeriya (2025) *Steaming cup of black tea on a wooden table*. [Photograph] Pexels. Available at: https://www.pexels.com/photo/tea-cup-and-teapot-on-wooden-table-11213963/ (Accessed: 25 February 2025).
+
