@@ -34,7 +34,7 @@ The primary goals of the Steepd website are:
 - **Store Locator Page (`locations.html`):** Embedded Google Map showing the store location and business hours.
 
 ## Sitemap
-![sitemap](documentation\image0-226.png)
+![sitemap](image0-226.png)
 
 ## Timeline and Milestones
 - **Week 1:** Project planning, wireframing, and framework finalization.
@@ -45,11 +45,11 @@ The primary goals of the Steepd website are:
 
 ## Wireframes
 
-![wireframe1](documentation\Proposal1Wireframe(preferred)\wireframe1.png)
-![wireframe2](documentation\Proposal1Wireframe(preferred)\wireframe2.png)
-![wireframe3](documentation\Proposal1Wireframe(preferred)\wireframe3.png)
-![wireframe4](documentation\Proposal1Wireframe(preferred)\wireframe4.png)
-![wireframe5](documentation\Proposal1Wireframe(preferred)\wireframe5.png)
+![wireframe1](Proposal1Wireframe(preferred)\wireframe1.png)
+![wireframe2](Proposal1Wireframe(preferred)\wireframe2.png)
+![wireframe3](Proposal1Wireframe(preferred)\wireframe3.png)
+![wireframe4](Proposal1Wireframe(preferred)\wireframe4.png)
+![wireframe5](Proposal1Wireframe(preferred)\wireframe5.png)
 (the above images were generated using Figma AI and modified by me)
 
 ## References
